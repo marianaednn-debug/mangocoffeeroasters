@@ -1,0 +1,329 @@
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mango Coffee Roasters</title>
+</head>
+
+<body>
+
+    <!-- ENCABEZADO -->
+    <header>
+        <h1>Mango Coffee Roasters</h1>
+        <h2>Café de Especialidad Tostado en Casa</h2>
+
+        <p>
+            Bienvenido a Mango Coffee Roasters, una cafetería especializada
+            en café de origen proveniente de Totutla, Veracruz.
+            Nuestro objetivo es ofrecer una experiencia única mediante
+            café de especialidad, bebidas artesanales y un ambiente ideal
+            para estudiar, trabajar o disfrutar con amigos.
+        </p>
+    </header>
+
+    <hr>
+
+    <!-- IMAGEN PRINCIPAL -->
+    <section>
+        <h2>Nuestra Cafetería</h2>
+
+        <img src="https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+             alt="Café de especialidad"
+             width="500">
+
+        <p>
+            Mango Coffee Roasters se distingue por realizar su propio proceso
+            de tostado, garantizando calidad, frescura y perfiles de sabor
+            únicos para nuestros clientes.
+        </p>
+    </section>
+
+    <hr>
+
+    <!-- SOBRE NOSOTROS -->
+    <section>
+
+        <h2>Sobre Nosotros</h2>
+
+        <p>
+            Nuestro café proviene de Totutla, Veracruz, una región reconocida
+            por producir algunos de los mejores cafés de México.
+            Trabajamos cuidadosamente cada lote para resaltar sus aromas,
+            cuerpo y sabor.
+        </p>
+
+        <p>
+            Además de nuestras bebidas, buscamos crear una experiencia
+            que combine calidad, comodidad y cultura cafetera.
+        </p>
+
+    </section>
+
+    <hr>
+
+    <!-- PRODUCTOS -->
+    <section>
+
+        <h2>Nuestros Productos</h2>
+
+        <table border="1">
+
+            <tr>
+                <th>Producto</th>
+                <th>Categoría</th>
+                <th>Descripción</th>
+            </tr>
+
+            <tr>
+                <td>Espresso</td>
+                <td>Café Caliente</td>
+                <td>Preparado con café de especialidad.</td>
+            </tr>
+
+            <tr>
+                <td>Cold Brew</td>
+                <td>Café Frío</td>
+                <td>Extracción lenta y sabor suave.</td>
+            </tr>
+
+            <tr>
+                <td>Matcha Latte</td>
+                <td>Bebida Especial</td>
+                <td>Matcha premium preparado artesanalmente.</td>
+            </tr>
+
+            <tr>
+                <td>Café en Grano</td>
+                <td>Venta al Público</td>
+                <td>Café tostado por Mango Coffee.</td>
+            </tr>
+
+        </table>
+
+    </section>
+
+    <hr>
+
+    <!-- REDES SOCIALES -->
+    <section>
+
+        <h2>Síguenos en Redes Sociales</h2>
+
+        <p>
+            Mantente informado sobre nuevas bebidas, promociones y eventos.
+        </p>
+
+        <a href="https://www.instagram.com/mango.coffee.mx/" target="_blank">
+            Visitar Instagram Oficial
+        </a>
+
+    </section>
+
+    <hr>
+
+    <!-- CTA -->
+    <section>
+
+        <h2>¡Visítanos Hoy!</h2>
+
+        <p>
+            Descubre por qué Mango Coffee Roasters se ha convertido en una de
+            las cafeterías favoritas de Mexicali.
+        </p>
+
+        <button>
+            Conoce Nuestro Menú
+        </button>
+
+    </section>
+
+    <hr>
+
+    <!-- CONTACTO -->
+    <section>
+
+        <h2>Información de Contacto</h2>
+
+        <p>
+            <strong>Nombre:</strong> Mango Coffee Roasters
+        </p>
+
+        <p>
+            <strong>Ubicación:</strong> Mexicali, Baja California
+        </p>
+
+        <p>
+            <strong>Correo:</strong> contacto@mangocoffeeroasters.com
+        </p>
+
+        <p>
+            <strong>Instagram:</strong>
+            @mango.coffee.mx
+        </p>
+
+        <a href="https://www.google.com/maps/place/Mango+Roasters/@32.663578,-115.4332101,17z/data=!3m1!4b1!4m6!3m5!1s0x80d771000173bd93:0x932763f9a358ea1!8m2!3d32.663578!4d-115.4332101!16s%2Fg%2F11wnmqccnc?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+           target="_blank">
+            Ver Ubicación en Google Maps
+        </a>
+
+    </section>
+
+    <hr>
+
+    <!-- PIE DE PAGINA -->
+    <footer>
+
+        <h3>Mango Coffee Roasters</h3>
+
+        <p>
+            Café de Especialidad | Coffee Roasters
+        </p>
+
+        <p>
+            MXLI | ENS
+        </p>
+
+        <p>
+            © 2026 Mango Coffee Roasters. Todos los derechos reservados.
+        </p>
+
+    </footer>
+
+</body>
+
+```
+
+<!-- LOGO -->
+
+<section>
+
+    <h2>Nuestra Marca</h2>
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdVuWC3XozQ4fovgFyojIMO-C0LLuy55iZQ&s"
+         alt="Logo Mango Coffee"
+         width="250">
+
+    <p>
+        Mango Coffee Roasters es una cafetería especializada en café de origen
+        proveniente de Totutla, Veracruz. Nos enfocamos en ofrecer una experiencia
+        completa a través del café de especialidad, bebidas artesanales y un ambiente
+        cómodo para nuestros clientes.
+    </p>
+
+</section>
+
+<hr>
+
+<!-- ESTABLECIMIENTO -->
+
+<section>
+
+    <h2>Conoce Nuestro Establecimiento</h2>
+
+    <p>
+        Nuestro espacio fue diseñado para brindar una experiencia agradable tanto
+        para estudiantes como para profesionistas y amantes del café.
+    </p>
+
+    <a href="https://www.instagram.com/mango.roasters/" target="_blank">
+        Ver fotografías del establecimiento
+    </a>
+
+    <br><br>
+
+    <a href="https://www.tiktok.com/@treespot.mx/video/7482577453982960902" target="_blank">
+        Ver recorrido en TikTok
+    </a>
+
+</section>
+
+<hr>
+
+<!-- PERSONAL -->
+
+<section>
+
+    <h2>Nuestro Equipo</h2>
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRH_h6C2CkB7g9ZLo7oVEM4ijRzTCXUCFaRg&s"
+         alt="Personal de Mango Coffee"
+         width="400">
+
+    <p>
+        Nuestro equipo trabaja diariamente para garantizar la calidad del café,
+        la atención al cliente y una experiencia memorable en cada visita.
+    </p>
+
+</section>
+
+<hr>
+
+<!-- GALERIA DE BEBIDAS -->
+
+<section>
+
+    <h2>Nuestras Bebidas</h2>
+
+    <p>
+        Contamos con una variedad de bebidas preparadas con café de especialidad,
+        matcha y recetas artesanales que reflejan la identidad de Mango Coffee.
+    </p>
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7FMKF-hi6Lg4I__1WUb_nP4ohTA7HrxAxuA&s"
+         alt="Bebida 1"
+         width="250">
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeg80VGhOWgCLpF-PXsqKzH8m3Xi48N4GiDA&s"
+         alt="Bebida 2"
+         width="250">
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFO3pryosmDLyyalAlnTntEcTuLy0Enctcmg&s"
+         alt="Bebida 3"
+         width="250">
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJOP5J75L1YSe7_5xykQWd-QGQu2h0dDHGsQ&s"
+         alt="Bebida 4"
+         width="250">
+
+</section>
+
+<hr>
+
+<!-- REDES SOCIALES -->
+
+<section>
+
+    <h2>Síguenos en Redes Sociales</h2>
+
+    <p>
+        Conoce nuevas bebidas, promociones, eventos y contenido relacionado
+        con el café de especialidad.
+    </p>
+
+    <a href="https://www.instagram.com/mango.coffee.mx/" target="_blank">
+        Instagram Oficial
+    </a>
+
+</section>
+
+<hr>
+
+<!-- CTA -->
+
+<section>
+
+    <h2>¡Vive la Experiencia Mango Coffee!</h2>
+
+    <p>
+        Descubre el sabor del café de especialidad tostado por Mango Coffee
+        y disfruta de un espacio diseñado para estudiar, trabajar o compartir.
+    </p>
+
+    <button>
+        Visítanos Hoy
+    </button>
+
+</section>
